@@ -1,3 +1,4 @@
+import Example1 from './examples/example1';
 import logo from './logo.svg';
 import './App.css';
 
@@ -16,6 +17,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+          <Example1/>
         </a>
       </header>
     </div>
